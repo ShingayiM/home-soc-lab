@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ﻿*.tar
 *passwords*
 *.log
 .env
+=======
+   *.tar
+   *passwords*
+   *.log
+   .env
+>>>>>>> 1186cb99e2e832acbd88860c2f6c5cff2b23ae59
